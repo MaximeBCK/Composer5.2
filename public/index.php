@@ -3,5 +3,5 @@
 require_once __DIR__. '/../vendor/autoload.php';
 
 
-$hello = new \App\Wcs\Hello();
-echo $hello->talk();
+$hello = new \App\Wcs\SayHello();
+echo $hello->world();

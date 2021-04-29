@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '01e4380868efb2088363bc23c116bcd11e3e783f',
+    'reference' => '604064d436eaceca6e1f5ef81a21bdb688159dba',
     'name' => 'becker/composer',
   ),
   'versions' => 
@@ -18,34 +18,16 @@
       'aliases' => 
       array (
       ),
-      'reference' => '01e4380868efb2088363bc23c116bcd11e3e783f',
+      'reference' => '604064d436eaceca6e1f5ef81a21bdb688159dba',
     ),
-    'symfony/polyfill-ctype' => 
+    'ehime/hello-world' => 
     array (
-      'pretty_version' => 'v1.22.1',
-      'version' => '1.22.1.0',
+      'pretty_version' => '1.0.5',
+      'version' => '1.0.5.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'c6c942b1ac76c82448322025e084cadc56048b4e',
-    ),
-    'symfony/polyfill-mbstring' => 
-    array (
-      'pretty_version' => 'v1.22.1',
-      'version' => '1.22.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '5232de97ee3b75b0360528dae24e73db49566ab1',
-    ),
-    'twig/twig' => 
-    array (
-      'pretty_version' => 'v2.14.4',
-      'version' => '2.14.4.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '0b4ba691fb99ec7952d25deb36c0a83061b93bbf',
+      'reference' => 'b1c8cdd2c11272d8c5deec7816e51fa5374217c1',
     ),
   ),
 );
