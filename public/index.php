@@ -2,4 +2,6 @@
 
 require_once __DIR__. '/../vendor/autoload.php';
 
-require_once './src/Wcs/hello.php';
+
+$hello = new \App\Wcs\Hello();
+echo $hello->talk();
