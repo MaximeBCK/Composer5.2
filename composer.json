@@ -1,0 +1,11 @@
+{
+    "name": "becker/composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "Maxime",
+            "email": "maximej.becker@gmail.com"
+        }
+    ],
+    "require": {}
+}
